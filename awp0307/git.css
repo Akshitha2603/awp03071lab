@@ -1,0 +1,16 @@
+*{ background-color:rgb(92, 90, 85);}
+h1{ font-family: fantasy;
+    color:black;
+}
+h2{
+    font-display: swap;
+    color:rgb(0, 68, 65);
+    font-family: cursive;
+}
+fieldset{
+    font-size: xx-large;
+    border-color: aquamarine;
+    color:aquamarine;
+    border-style: dotted;
+    font-family: cursive;
+}
